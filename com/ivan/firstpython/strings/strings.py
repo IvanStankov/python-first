@@ -1,3 +1,5 @@
+print(type("hello"))
+
 str1 = "It is string with 'double' \" quotes"
 str2 = 'It is string with "single" \' quotes'
 print(str1 + " " + str2)
